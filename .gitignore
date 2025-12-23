@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Compiled binaries
+*.pyd
+*.obj
+*.lib
+*.exp
+
+# Python cache
+__pycache__/
+*.pyc
